@@ -1,0 +1,111 @@
+.HeaderWrapper{
+    padding: 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.sideBarContentWrapper>div{
+    padding: 15px 50px;
+}
+.sideBarContentWrapper span{
+    font-size: 16px;
+}
+/* Responsive header changes by 1340730*/
+.headerLogo{   
+    width: 160px;
+}
+/* Responsive header changes by 1340730*/
+.appBarWrapper header>div>button{
+    padding: 0;
+    margin-right: 0;
+}
+.NovartisLogo{
+    width: 20%;
+    height: auto;
+    margin-right: 10px;
+}
+.advancedSearchWrapper{
+    margin-right:25px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    letter-spacing: 1px;
+}
+.advancedSearchWrapper:hover{
+    text-decoration: underline;
+}
+.MenuPosition >div:last-child{
+    top:10% !important;
+    
+    /* left: 81% !important; */
+    /* right: 88px !important; */
+}
+.BookmarkMenuPosition >div:last-child{
+    top:10% !important;
+    
+    left: 81% !important;
+    /* right: 88px !important; */
+}
+.MenuPosition >div:last-child>ul{
+    padding-bottom: 0px !important;
+}
+.itemsMenu{
+    padding: 20px !important;
+}
+.messagetypography{
+    font-size: 14px !important;
+}
+.topMessageBody{
+    display: flex;
+    justify-content: space-between;
+
+}
+.topMessageBody>p:last-child{
+    font-size: 14px;
+}
+.submenuRibbon{
+    z-index: 1;
+    top: 8% !important;
+}
+.submenuRibbonNotification{
+    z-index: 1;
+    top: 8% !important;
+    /* left: 49%;
+    top: 18%; */
+}
+.makeStyles-root-139{
+    height: 34px !important;
+}
+
+/* As per new requirement search icon padding should be reduced */
+.autoSuggestSearchBox .PrimarySearchAppBar-searchIcon-8{
+    width: 45px !important;
+    color: grey;
+}
+/* Search box css styles start*/
+.autoSuggestSearchBox input{
+    width: 205px;
+    padding: 8px 0 8px 40px;
+    color: #ffffff;
+}
+/* As per new requirement search icon padding should be reduced */
+
+.autoSuggestSearchBox >div:before,.autoSuggestSearchBox >div:after,.autoSuggestSearchBox >div:hover{
+    border-bottom: none !important;
+}
+.autoSuggestSearchBox input::-webkit-input-placeholder{
+    color: #ffffff ;
+}
+/* Search box css styles end*/
+/* Responsive header changes by 1340730*/
+@media only screen and (max-width: 600px) {
+    .subHeading{
+        font-size: 25px;
+        margin-left: 16px;
+    }
+    .headerLogo{
+        width: 25px;
+    }
+  }
+  
+  /* .appBarWrapper header div:first-of-type{
+      padding-left: 10px;
+  } */
+/* Responsive header changes by 1340730*/

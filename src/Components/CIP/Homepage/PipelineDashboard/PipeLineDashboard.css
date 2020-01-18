@@ -1,0 +1,102 @@
+.PipeLineDashboardWrapper{
+    padding-top:15px;
+}
+.PipeLineDashboardWrapper .paperWrapper{
+    height: auto;
+    margin: 0 0;
+    box-shadow: none;
+    padding-top: 0;
+}
+.PipeLineDashboardWrapper .paperWrapper:nth-child(1),.PipeLineDashboardWrapper .paperWrapper:nth-child(3){
+    padding-right: 0;
+}
+.pipelineDiseaseWrapper .paperWrapper:nth-child(1),.pipelineDiseaseWrapper .paperWrapper:nth-child(2){
+    padding-left: 5px;
+    margin-right:-10px;
+}
+.pipelineDiseaseWrapper .paperWrapper:nth-child(3){
+    padding-right: 15px;
+}
+.PipeLineDashboardWrapper .paperWrapper >div {
+    /* box-shadow: none; */
+    /* new requirement for boz shadow on tile */
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    /* new requirement for boz shadow on tile */
+    padding: 10px 16px;
+    height: auto;
+    margin: 0px 15px 5px 0px;
+    text-align: center;
+}
+.PipeLineDashboardWrapper .paperWrapper.locationWrapper>div{
+    margin-left: 16px;
+}
+.drugTableWrapper > div{
+    margin: 0;
+}
+.PipeLineDashboardWrapper .drugTableWrapper>div>div:nth-child(1){
+    min-height: 48px;
+    height: 48px;
+}
+.drugTableWrapper h6{
+    font-size: 18px;
+}
+.drugTableWrapper input[type="checkbox"]{
+    margin: 0
+}
+.drugTableWrapper th,.drugTableWrapper td{
+    padding:0px 15px 0px 15px;
+    z-index: 0;
+}
+.drugTableWrapper>div>div:nth-child(3){
+    max-height: 160px ;
+    height: 160px ;
+    margin-right: 5px;
+}
+.drugTableWrapper tfoot tr{
+   height: 33px;
+}
+.drugTableWrapper tfoot tr td>div{
+    height: 20px;
+    min-height: 20px;
+}
+.drugTableWrapper tfoot{
+        border-bottom: none;
+}
+.StackedColumnChartWrapper{
+    margin-bottom: 10px;
+}
+.clinicalTrialDevelopmentPhase>div:nth-child(1){
+    position: relative;
+}
+.clinicalTrialDevelopmentPhase .hideChart1{
+    bottom: 1%;
+    left: 7.1%;
+}
+.clinicalTrialDevelopmentPhase .hideChart2{
+    bottom: 0%;
+    width: 61px;
+    right: 0.5%;
+}
+.clinicalDoughnutWrapper>div>div>div:nth-child(2)>div>div>div{
+    padding:0;
+}
+.StackedColumnChartWrapper,.RangeBarChartWrapper{
+    position: relative;
+}
+.clinicalTrialHeading{
+    color: #34888C !important;
+    font-size: 18px !important;
+    padding-left: 20px;
+}
+/* Drug List card corners rounded changes by 1340730*/
+#drugTable span {
+    font-size: 15px;
+    color: #8E8E8E;
+    
+}
+#drugTable 
+{
+    margin-top: 5px;
+    padding-left: 5px;
+}
+/* Drug List card corners rounded changes by 1340730*/

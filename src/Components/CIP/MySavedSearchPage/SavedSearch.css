@@ -1,0 +1,51 @@
+
+.savedsearchwrapper{
+  display: inline-block;
+}
+
+
+
+.title{
+  display: inline-block !important;
+  padding: 15px 15px 0px 0px;
+  font-size: 18px !important;
+  /* font-weight: bold  !important; */
+  margin-left: 20px !important;
+  color : #34888C !important;
+  vertical-align: 5px;
+}
+
+.pages{
+  /* display: inline-block !important; */
+  /* vertical-align: 15px; */
+  font-size: 11px;
+  color: #34888C !important;
+  font-weight: bold !important;
+  
+}
+
+.form {
+ 
+  vertical-align: 25px;
+  width: 40%;
+}
+
+/* .button {
+  display: inline-block;
+} */
+
+.barstyle {
+ 
+  
+}
+
+.margins{
+  margin-right: 30px !important;
+  
+}
+.ProgressBarWrapper{
+  display: inline-block;
+ 
+  
+}
+

@@ -1,0 +1,30 @@
+.ViewAllNotification{
+    background-color: #f3f4f4;
+    color: orange
+  }
+  
+  .tabledata2 {
+    font-size: 15px !important;
+    
+  }
+  
+  .options {
+    padding: 50px 20px;
+  }
+.NavlistItem>div>div>span{
+    font-size: 16px !important
+  }
+.NotificationList>tbody>tr>td:first-child{
+  padding-left: 16px !important;
+}
+.NotificationList>tbody>tr>td{
+  padding-top: 14px !important
+}
+  
+.notiHead {
+  color: #34888C !important;
+  font-size: 20px !important;
+}
+  
+  
+  

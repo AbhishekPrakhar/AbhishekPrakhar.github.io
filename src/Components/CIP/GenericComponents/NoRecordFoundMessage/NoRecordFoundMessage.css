@@ -1,0 +1,19 @@
+.noRecordFounds{
+    height: inherit;
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    color: #7CAA2D;
+    flex-direction: column;
+    justify-content: center;
+}
+.noRecordFoundsImg{
+    width: 25%;
+    height: 5%;
+    margin: 2% auto 0% auto;
+}
+.noRecordFoundsMessage{
+    text-align: center;
+    color:#7CAA2D;
+    font-weight: 400
+}

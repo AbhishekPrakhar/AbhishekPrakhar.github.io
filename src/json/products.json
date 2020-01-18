@@ -1,0 +1,1152 @@
+[
+    {
+      "title": "BYSTOLIC",
+      "Molecule_Name": "NEBIVOLOL HYDROCHLORIDE",
+      "Therapeutic_Area": "Cardiovascular",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "15",
+      "ATC3_Code": [
+        "C07AB Beta Blocking Agents"
+      ],
+      "Indication": "Hypertension",
+      "Licensing_Status": "Licensed to china",
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "982,128,912"
+        },
+        {
+          "country": "China",
+          "value": "882,821,789"
+        },
+        {
+          "country": "JAPAN",
+          "value": "736,429,663"
+        }
+      ],
+      "CAGR": "7 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-42%"
+        },
+        {
+          "country": "China",
+          "value": "-30%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "20%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "70%"
+        },
+        {
+          "country": "China",
+          "value": "40%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "30%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "30"
+        },
+        {
+          "country": "China",
+          "value": "50"
+        },
+        {
+          "country": "JAPAN",
+          "value": "70"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "30"
+        },
+        {
+          "country": "China",
+          "value": "20"
+        },
+        {
+          "country": "JAPAN",
+          "value": "10"
+        }
+      ],
+      "licensing": [
+        {
+          "country": "US",
+          "License": "NA",
+          "LOE": "2.5 years",
+          "registration": "Approved"
+        },
+        {
+          "country": "CN",
+          "License": "NA",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "NA",
+          "LOE": "4 years",
+          "registration": "Approved"
+        }
+      ]
+    },
+    {
+      "title": "FINACEA",
+      "Molecule_Name": "AZELAIC ACID",
+      "Therapeutic_Area": "",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "25",
+      "ATC3_Code": [
+        "D10AX Other anti-acne preparations for topical use"
+      ],
+      "Indication": "",
+      "Licensing_Status": "Licensed to china",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "892,281,129"
+        },
+        {
+          "country": "China",
+          "value": "228,281,879"
+        },
+        {
+          "country": "JAPAN",
+          "value": "361,429,366"
+        }
+      ],
+      "CAGR": "9 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-32%"
+        },
+        {
+          "country": "China",
+          "value": "-20%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "30%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "60%"
+        },
+        {
+          "country": "China",
+          "value": "50%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "40"
+        },
+        {
+          "country": "China",
+          "value": "60"
+        },
+        {
+          "country": "JAPAN",
+          "value": "80"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "40"
+        },
+        {
+          "country": "China",
+          "value": "30"
+        },
+        {
+          "country": "JAPAN",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "title": "HALOBETASOL PROPIONATE",
+      "Molecule_Name": "HALOBETASOL PROPIONATE",
+      "Therapeutic_Area": "",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "30",
+      "ATC3_Code": [
+        "S01AX Other antiinfectives"
+      ],
+      "Indication": "",
+      "Licensing_Status": "Licensed to USA",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "882,228,712"
+        },
+        {
+          "country": "China",
+          "value": "682,824,798"
+        },
+        {
+          "country": "JAPAN",
+          "value": "367,249,366"
+        }
+      ],
+      "CAGR": "11 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-52%"
+        },
+        {
+          "country": "China",
+          "value": "-20%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "40%"
+        },
+        {
+          "country": "China",
+          "value": "30%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "20%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "50"
+        },
+        {
+          "country": "China",
+          "value": "70"
+        },
+        {
+          "country": "JAPAN",
+          "value": "90"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "30"
+        },
+        {
+          "country": "China",
+          "value": "50"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "title": "KETOCONAZOLE",
+      "Molecule_Name": "KETOCONAZOLE",
+      "Therapeutic_Area": "",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "35",
+      "ATC3_Code": [
+        "D01AC Imidazole and triazole derivatives",
+        "G01AF Imidazole derivatives",
+        "J02AB Imidazole derivatives"
+      ],
+      "Indication": "",
+      "Licensing_Status": "Licensed to UK",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "485,528,129"
+        },
+        {
+          "country": "China",
+          "value": "885,721,785"
+        },
+        {
+          "country": "JAPAN",
+          "value": "562,429,365"
+        }
+      ],
+      "CAGR": "6 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-52%"
+        },
+        {
+          "country": "China",
+          "value": "-20%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "40%"
+        },
+        {
+          "country": "China",
+          "value": "30%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "20%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "50"
+        },
+        {
+          "country": "China",
+          "value": "70"
+        },
+        {
+          "country": "JAPAN",
+          "value": "90"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "20"
+        },
+        {
+          "country": "China",
+          "value": "25"
+        },
+        {
+          "country": "JAPAN",
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "title": "MINOXIDIL (FOR WOMEN)",
+      "Molecule_Name": "MINOXIDIL",
+      "Therapeutic_Area": "",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "45",
+      "ATC3_Code": [
+        "C02DC Pyrimidine derivatives",
+        "D11AX Other dermatologicals"
+      ],
+      "Indication": "",
+      "Licensing_Status": "Licensed to Japan",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "985,285,963"
+        },
+        {
+          "country": "China",
+          "value": "258,821,879"
+        },
+        {
+          "country": "JAPAN",
+          "value": "963,254,365"
+        }
+      ],
+      "CAGR": "5 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-58%"
+        },
+        {
+          "country": "China",
+          "value": "-25%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "45%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "45%"
+        },
+        {
+          "country": "China",
+          "value": "50%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "55%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "55"
+        },
+        {
+          "country": "China",
+          "value": "65"
+        },
+        {
+          "country": "JAPAN",
+          "value": "75"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "25"
+        },
+        {
+          "country": "China",
+          "value": "30"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "title": "ADVAIR HFA",
+      "Molecule_Name": "FLUTICASONE PROPIONATE",
+      "Therapeutic_Area": "",
+      "Corporation": "GLAXO GRP LTD",
+      "CRP_Ranking": "25",
+      "ATC3_Code": [
+        "D07AC Corticosteroids, potent (group III)",
+        "R01AD Corticosteroids",
+        "R03BA Glucocorticoids"
+      ],
+      "Indication": "ADVAIR HFA is indicated for the twice-daily treatment of asthma in patients aged 12 years and older. ADVAIR HFA should be used for patients not adequately controlled on a long-term asthma control medication such as an inhaled corticosteroid (ICS) or whose disease warrants initiation of treatment with both an ICS and long-acting beta2-adrenergic agonist (LABA).",
+      "Licensing_Status": "Licensed to US",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "902,148,942"
+        },
+        {
+          "country": "China",
+          "value": "872,871,789"
+        },
+        {
+          "country": "JAPAN",
+          "value": "734,119,763"
+        }
+      ],
+      "CAGR": "8 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-40%"
+        },
+        {
+          "country": "China",
+          "value": "-25%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "25%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "50%"
+        },
+        {
+          "country": "China",
+          "value": "25%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "25%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "20"
+        },
+        {
+          "country": "China",
+          "value": "30"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "70"
+        },
+        {
+          "country": "China",
+          "value": "60"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "title": "BEVESPI AEROSPHERE",
+      "Molecule_Name": "FORMOTEROL FUMARATE",
+      "Therapeutic_Area": "",
+      "Corporation": "ASTRAZENECA PHARMS",
+      "CRP_Ranking": "19",
+      "ATC3_Code": [
+        "R03AC Selective beta-2-adrenoreceptor agonists"
+      ],
+      "Indication": "BEVESPI AEROSPHERE is a combination of glycopyrrolate and formoterol fumarate indicated for the long-term, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.",
+      "Licensing_Status": "Licensed to china",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "955,428,942"
+        },
+        {
+          "country": "China",
+          "value": "872,841,779"
+        },
+        {
+          "country": "JAPAN",
+          "value": "737,729,553"
+        }
+      ],
+      "CAGR": "3 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-40%"
+        },
+        {
+          "country": "China",
+          "value": "-20%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "10%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "30%"
+        },
+        {
+          "country": "China",
+          "value": "70%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "20"
+        },
+        {
+          "country": "China",
+          "value": "40"
+        },
+        {
+          "country": "JAPAN",
+          "value": "60"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "70"
+        },
+        {
+          "country": "China",
+          "value": "10"
+        },
+        {
+          "country": "JAPAN",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "title": "ALVESCO",
+      "Molecule_Name": "CICLESONIDE",
+      "Therapeutic_Area": "",
+      "Corporation": "COVIS PHARMA BV",
+      "CRP_Ranking": "35",
+      "ATC3_Code": [
+        "R03BA Glucocorticoids",
+        "R01AD Corticosteroids"
+      ],
+      "Indication": "ALVESCO is indicated for the maintenance treatment of asthma as prophylactic therapy in adult and adolescent patients 12 years of age and older.",
+      "Licensing_Status": "Licensed to Japan",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "982,100,912"
+        },
+        {
+          "country": "China",
+          "value": "100,821,789"
+        },
+        {
+          "country": "JAPAN",
+          "value": "736,469,663"
+        }
+      ],
+      "CAGR": "10 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-50%"
+        },
+        {
+          "country": "China",
+          "value": "-20%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "13%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "75%"
+        },
+        {
+          "country": "China",
+          "value": "49%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "36%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "43"
+        },
+        {
+          "country": "China",
+          "value": "75"
+        },
+        {
+          "country": "JAPAN",
+          "value": "68"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "40"
+        },
+        {
+          "country": "China",
+          "value": "16"
+        },
+        {
+          "country": "JAPAN",
+          "value": "76"
+        }
+      ]
+    },
+    {
+      "title": "ASMANEX HFA",
+      "Molecule_Name": "MOMETASONE FUROATE",
+      "Therapeutic_Area": "",
+      "Corporation": "MERCK SHARP DOHME",
+      "CRP_Ranking": "35",
+      "ATC3_Code": [
+        "D07AC Corticosteroids, potent (group III)",
+        "D07XC Corticosteroids, potent, other combinations",
+        "R01AD Corticosteroids",
+        "R03BA Glucocorticoids"
+      ],
+      "Indication": "ASMANEX® HFA is indicated for the maintenance treatment of asthma as prophylactic therapy in patients 12 years of age and older.",
+      "Licensing_Status": "Licensed to US",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "112,128,912"
+        },
+        {
+          "country": "China",
+          "value": "222,421,789"
+        },
+        {
+          "country": "JAPAN",
+          "value": "465,429,663"
+        }
+      ],
+      "CAGR": "4 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-50%"
+        },
+        {
+          "country": "China",
+          "value": "-70%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "30%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "50%"
+        },
+        {
+          "country": "China",
+          "value": "10%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "40%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "60"
+        },
+        {
+          "country": "China",
+          "value": "70"
+        },
+        {
+          "country": "JAPAN",
+          "value": "60"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "70"
+        },
+        {
+          "country": "China",
+          "value": "30"
+        },
+        {
+          "country": "JAPAN",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "title": "ATROVENT",
+      "Molecule_Name": "IPRATROPIUM BROMIDE",
+      "Therapeutic_Area": "",
+      "Corporation": "BOEHRINGER INGELHEIM",
+      "CRP_Ranking": "25",
+      "ATC3_Code": [
+        "R01AX Other nasal preparations",
+        "R03BB Anticholinergics"
+      ],
+      "Indication": "ATROVENT HFA Inhalation Aerosol is indicated as a bronchodilator for maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.",
+      "Licensing_Status": "Licensed to china",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "902,000,912"
+        },
+        {
+          "country": "China",
+          "value": "873,765,789"
+        },
+        {
+          "country": "JAPAN",
+          "value": "836,449,664"
+        }
+      ],
+      "CAGR": "13 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-56%"
+        },
+        {
+          "country": "China",
+          "value": "-35%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "30%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "60%"
+        },
+        {
+          "country": "China",
+          "value": "30%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "10%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "43"
+        },
+        {
+          "country": "China",
+          "value": "36"
+        },
+        {
+          "country": "JAPAN",
+          "value": "77"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "35"
+        },
+        {
+          "country": "China",
+          "value": "25"
+        },
+        {
+          "country": "JAPAN",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "title": "VERDESO",
+      "Molecule_Name": "DESONIDE",
+      "Therapeutic_Area": "",
+      "Corporation": "ALLERGAN SALES LLC",
+      "CRP_Ranking": "40",
+      "ATC3_Code": [
+        "A07EA Corticosteroids acting locally",
+        "D07AC Corticosteroids, potent (group III)",
+        "R01AD Corticosteroids",
+        "R03BA Glucocorticoids",
+        "D07AB Corticosteroids, moderately potent (group II)",
+        "S01BA Corticosteroids, plain",
+        "D07BB Corticosteroids, moderately potent, combinations with antiseptics",
+        "R03AK Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+      ],
+      "Indication": "",
+      "Licensing_Status": "Licensed to Russia",
+      "licensing": [
+        {
+          "country": "US",
+          "License": "License US",
+          "LOE": "2.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "CN",
+          "License": "License CN",
+          "LOE": "3.5 years",
+          "registration": "In registration"
+        },
+        {
+          "country": "JP",
+          "License": "License JP",
+          "LOE": "4 years",
+          "registration": "In registration"
+        }
+      ],
+      "Product_Market_Size": [
+        {
+          "country": "US",
+          "value": "586,128,875"
+        },
+        {
+          "country": "China",
+          "value": "658,821,746"
+        },
+        {
+          "country": "JAPAN",
+          "value": "635,789,389"
+        }
+      ],
+      "CAGR": "9 %",
+      "Forecast": [
+        {
+          "country": "US",
+          "value": "-65%"
+        },
+        {
+          "country": "China",
+          "value": "-35%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "48%"
+        }
+      ],
+      "Sales_Contribution": [
+        {
+          "country": "US",
+          "value": "50%"
+        },
+        {
+          "country": "China",
+          "value": "55%"
+        },
+        {
+          "country": "JAPAN",
+          "value": "60%"
+        }
+      ],
+      "BrandSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "60"
+        },
+        {
+          "country": "China",
+          "value": "65"
+        },
+        {
+          "country": "JAPAN",
+          "value": "70"
+        }
+      ],
+      "MoleculeSharevsTherapyClass": [
+        {
+          "country": "US",
+          "value": "34"
+        },
+        {
+          "country": "China",
+          "value": "44"
+        },
+        {
+          "country": "JAPAN",
+          "value": "54"
+        }
+      ]
+    }
+  ]

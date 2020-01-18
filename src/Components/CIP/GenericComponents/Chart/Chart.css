@@ -1,0 +1,140 @@
+
+.hideChart1{
+    position: absolute;
+    height: 18px;
+    bottom: 1px;
+    width: 57px;
+    height: 12px;
+    left: 0px;
+}
+ .hideChart2{
+    position: absolute;
+    height: 18px;
+    bottom: -2px;
+    width: 120px;
+    width: 150px;
+    height: 12px;
+    right: 0;
+}
+.ReactModalPortal .StackedBarChartWrapper .hideChart1{
+    bottom: 0%;
+}
+.ReactModalPortal .clinicalTrialDevelopmentPhase .hideChart2{
+    bottom: 0%;
+    width: 64px;
+    right: 0;
+}
+.ReactModalPortal .BarChartWrapper .hideChart2{
+    bottom: 14.5%;
+}
+.ReactModalPortal .BarChartWrapper .hideChart1{
+    bottom: 16.5%;
+    left: 0%;
+    width: 7%;
+}
+.ReactModalPortal .clinicalTrialDevelopmentPhase{
+    position: relative;
+}
+.ReactModalPortal .clinicalTrialDevelopmentPhase .hideChart1{
+    left: 0;
+}
+.ReactModalPortal .StackedBarChartWrapper .hideChart2{
+    bottom: -4%;
+    left: 33.5%;
+}
+.ExpertsObservation .hideChart1{
+    width: 75px;
+    bottom: 25px;
+}
+.ExpertsObservation .hideChart2{
+    width: 121px;
+    right: 16px;
+    bottom: 23px;
+}
+.chartWrapper{
+    position: relative;
+}
+.StackedBarChartWrapper .hideChart1,.StackedBarChartWrapper .hideChart2{
+    bottom: 9%;
+}
+.TAViewWrapper .StackedBarChartWrapper .hideChart1,.TAViewWrapper .StackedBarChartWrapper .hideChart2{
+    left: 3%;
+    width: 18%;
+    height:15px;
+}
+.TAViewWrapper .StackedBarChartWrapper .hideChart2{
+    left: 30%;
+    width: 18%;
+}
+.ComperitorViewWrapper .StackedBarChartWrapper .hideChart1,.ComperitorViewWrapper .StackedBarChartWrapper .hideChart2{
+    left: 2%;
+    width: 18%;
+    height:11px;
+}
+.ComperitorViewWrapper .StackedBarChartWrapper .hideChart2{
+    left: 28%;
+    width: 18%;
+}
+.myCIHomeGenericWrapper  .StackedBarChartWrapper .hideChart1,.myCIHomeGenericWrapper .StackedBarChartWrapper .hideChart2{
+    left: 0%;
+    width: 22%;
+    bottom: 12%;
+}
+.myCIHomeGenericWrapper .StackedBarChartWrapper .hideChart2{
+    left: 79%;
+    width: 18%;
+}
+.ReactModalPortal .StackedBarChartWrapper{
+    position: relative;
+}
+.ReactModalPortal .StackedBarChartWrapper .hideChart1,.ReactModalPortal .StackedBarChartWrapper .hideChart2{
+    height:20px;
+    width:65px;
+}
+.DoughnutChartWrapper .hideChart1,.DoughnutChartWrapper .hideChart2{
+    bottom: 12%;
+    left: 1%;
+    width: 18%;
+}
+.DoughnutChartWrapper .hideChart2{
+    left: 81%;
+}
+.BarChartWrapper .hideChart1{
+    bottom: 11.5%;
+    left: 0%;
+    width: 17%;
+}
+.BarChartWrapper .hideChart2{
+    bottom: 11.5%;
+    width: 18%;
+    left: 81%;
+}
+.pieChartWrapper .hideChart2{
+    bottom: 11.5%;
+}
+.marketSizeWrapper .hideChart1,.marketSizeWrapper .hideChart2{
+    bottom: 0;
+    width: 20%;
+}
+.marketSizeWrapper .hideChart1{
+    left: 0%;
+}
+.marketSizeWrapper .hideChart2{
+    left: 76%;
+}
+.contributionWrapper .hideChart1,.contributionWrapper .hideChart2{
+    bottom: 55px;
+    width: 20%;
+}
+.contributionWrapper .hideChart1{
+    left: 0%;
+}
+.contributionWrapper .hideChart2{
+    left: 78%;
+}
+.contributionWrapper thead{
+    border-bottom: none;
+}
+.contributionWrapper th,.contributionWrapper td{
+    text-align: center;
+}

@@ -1,0 +1,109 @@
+.UsageAnalyticsDashboardWrapper{
+    padding-top:15px;
+}
+.UsageAnalyticsDashboardWrapper .paperWrapper{
+    height: auto;
+    margin: 0 0;
+    box-shadow: none;
+    padding-top: 0;
+}
+.UsageAnalyticsDashboardWrapper .paperWrapper:nth-child(1),.UsageAnalyticsDashboardWrapper .paperWrapper:nth-child(3){
+    padding-right: 5px;
+    padding-left: 20px;
+}
+.UsageAnalyticsDashboardWrapper .pipelineDiseaseWrapper .paperWrapper:nth-child(1){
+    padding-right: 0;
+    padding-left: 5px;
+}
+.UsageAnalyticsDashboardWrapper .pipelineDiseaseWrapper .paperWrapper:nth-child(2){
+    padding-right: 20px;
+    padding-left: 5px;
+}
+.UsageAnalyticsDashboardWrapper .pipelineDiseaseWrapper .paperWrapper.locationWrapper>div{
+    margin-left: 16px;
+}
+.UsageAnalyticsDashboardWrapper .pipelineDiseaseWrapper .paperWrapper:nth-child(3){
+    padding-right: 15px;
+}
+.UsageAnalyticsDashboardWrapper .paperWrapper >div {
+    /* box-shadow: none; */
+     /* box-shadow: none; */
+    /* new requirement for boz shadow on tile */
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    /* new requirement for boz shadow on tile */
+    padding: 10px 16px;
+    height: auto;
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+}
+.UsageAnalyticsDashboardWrapper .drugTableWrapper > div{
+    margin: 0;
+}
+.UsageAnalyticsDashboardWrapper .drugTableWrapper>div>div:nth-child(1){
+    min-height: 48px;
+    height: 48px;
+}
+.UsageAnalyticsDashboardWrapper .drugTableWrapper h6{
+    font-size: 18px;
+}
+.UsageAnalyticsDashboardWrapper .drugTableWrapper input[type="checkbox"]{
+    margin: 0
+}
+.drugTableWrapper th,.drugTableWrapper td{
+    padding:0px 15px 0px 15px;
+    z-index: 0;
+}
+.drugTableWrapper>div>div:nth-child(3){
+    max-height: 160px ;
+    height: 160px ;
+    margin-right: 5px;
+}
+.drugTableWrapper tfoot tr{
+   height: 33px;
+}
+.drugTableWrapper tfoot tr td>div{
+    height: 20px;
+    min-height: 20px;
+}
+.drugTableWrapper tfoot{
+    border-bottom: none;
+}
+.StackedColumnChartWrapper{
+    margin-bottom: 10px;
+}
+.clinicalTrialDevelopmentPhase>div:nth-child(1){
+    position: relative;
+}
+.clinicalTrialDevelopmentPhase .hideChart1{
+    bottom: 8%;
+    left: 6.8%;
+}
+.clinicalTrialDevelopmentPhase .hideChart2{
+    bottom: 7%;
+    width: 61px;
+    right: 0.5%;
+}
+.clinicalDoughnutWrapper>div>div>div:nth-child(2)>div>div>div{
+    padding:0;
+}
+.UsageAnalyticsDashboardWrapper .StackedColumnChartWrapper,{
+    position: relative;
+}
+.UsageAnalyticsDashboardWrapper .RangeBarChartWrapper{
+    margin-right: 10px;
+}
+.clinicalTrialHeading{
+    color: #34888C !important;
+    font-size: 18px !important;
+    padding-left: 20px;
+}
+.UsageAnalyticsDashboardWrapper .locationWrapper>div{
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.CardHeaderWrapper{
+    color: #34888C;
+    font-size: 18px;
+    padding: 0;
+}

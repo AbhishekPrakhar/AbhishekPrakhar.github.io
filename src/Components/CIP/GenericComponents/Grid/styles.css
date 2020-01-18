@@ -1,0 +1,130 @@
+
+.react-grid-layout {
+    position: relative;
+    transition: height 200ms ease;
+  }
+  .react-grid-item {
+    transition: all 200ms ease;
+    transition-property: left, top;
+  }
+  .react-grid-item.cssTransforms {
+    transition-property: transform;
+    border: none !important;
+  }
+  .react-grid-item.resizing {
+    z-index: 1;
+    will-change: width, height;
+  }
+  
+  .react-grid-item.react-draggable-dragging {
+    transition: none;
+    z-index: 3;
+    will-change: transform;
+  }
+  
+  .react-grid-item.react-grid-placeholder {
+    background: red;
+    opacity: 0.2;
+    transition-duration: 100ms;
+    z-index: 2;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  
+  .react-grid-item > .react-resizable-handle {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    right: 0;
+    cursor: se-resize;
+  }
+  
+  .react-grid-item > .react-resizable-handle::after {
+    content: "";
+    position: absolute;
+    right: 3px;
+    bottom: 3px;
+    width: 5px;
+    height: 5px;
+    border-right: 2px solid rgba(0, 0, 0, 0.4);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+  }
+  .seetingsIcon{
+    text-align: right;
+  }
+  .tilesourceWrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .tilesourceWrapper>li{
+    margin-top: 0px;
+  }
+  .tilesourceWrapper>li>div>span>span>svg ,.tilesourceWrapper>li>div>div{
+    font-size: 11px;
+    color: #34888C;
+  } 
+  .tilesourceWrapper>li>div{
+    padding: 0px;
+    min-width: 175px;;
+  }
+  .tilesourceWrapper>li>div>div{
+    padding: 0px;
+  }
+  .tilesSource>label{
+      color: #34888C;
+  }
+  .tilesourceWrapper>li>div>div>span{
+    color: #7CAA2D;
+  }
+  .saveSettingsButton{
+    display: flex;
+    justify-content: flex-end
+  }
+  .saveSettingsButton>button{
+    margin-right: 20px;
+    text-transform: capitalize;
+    margin-top: 15px;
+  }
+  .saveSettingsButton>button:last-child{
+ 
+    background: #CB6318;
+  }
+  /* .layout>div{
+    min-width: 300px;
+    min-height: 300px;
+  } */
+  .layout>div>div>div>div>div>div>div>div>div>div>div{
+       max-height: unset !important;
+       /* height: inherit !important; */
+  }
+  .layout>div>div>div>div>div>span{
+    color: #34888C;
+    font-size: 18px;
+
+  }
+  /* .contentList */
+  /* .layout>.contentList{
+    max-height: auto !important;
+  } */
+
+  .layout>div>div>div{
+    height: -webkit-fill-available;
+  }
+  .MyViewWrapper{
+    min-height: calc(100vh - 150px);
+  }
+
+  /* my view heading*/
+
+  .homepageWrapper>div>div.myViewHeading>h1{
+
+    color: #34888C !important;
+    font-size: 18px !important;
+    padding-left: 30px !important;
+    text-align: left !important;
+  }
