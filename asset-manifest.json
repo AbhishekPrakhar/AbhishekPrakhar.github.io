@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "abhishekprakhar.github.io/static/css/main.5ab981b2.chunk.css",
+    "main.js": "abhishekprakhar.github.io/static/js/main.89a58b83.chunk.js",
+    "main.js.map": "abhishekprakhar.github.io/static/js/main.89a58b83.chunk.js.map",
+    "runtime-main.js": "abhishekprakhar.github.io/static/js/runtime-main.a2293ade.js",
+    "runtime-main.js.map": "abhishekprakhar.github.io/static/js/runtime-main.a2293ade.js.map",
+    "static/css/2.56388bf5.chunk.css": "abhishekprakhar.github.io/static/css/2.56388bf5.chunk.css",
+    "static/js/2.a9f402f6.chunk.js": "abhishekprakhar.github.io/static/js/2.a9f402f6.chunk.js",
+    "static/js/2.a9f402f6.chunk.js.map": "abhishekprakhar.github.io/static/js/2.a9f402f6.chunk.js.map",
+    "index.html": "abhishekprakhar.github.io/index.html",
+    "precache-manifest.5c16aae0ff2be1208c3cfcef6b761bac.js": "abhishekprakhar.github.io/precache-manifest.5c16aae0ff2be1208c3cfcef6b761bac.js",
+    "service-worker.js": "abhishekprakhar.github.io/service-worker.js",
+    "static/css/2.56388bf5.chunk.css.map": "abhishekprakhar.github.io/static/css/2.56388bf5.chunk.css.map",
+    "static/css/main.5ab981b2.chunk.css.map": "abhishekprakhar.github.io/static/css/main.5ab981b2.chunk.css.map",
+    "static/js/2.a9f402f6.chunk.js.LICENSE": "abhishekprakhar.github.io/static/js/2.a9f402f6.chunk.js.LICENSE",
+    "static/media/Roboto.css": "abhishekprakhar.github.io/static/media/Roboto9.8bb64952.woff2",
+    "static/media/bootstrap.css": "abhishekprakhar.github.io/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/GeneralStyles.css": "abhishekprakhar.github.io/static/media/login.7b359895.jpeg",
+    "static/media/novartis-logo.svg": "abhishekprakhar.github.io/static/media/novartis-logo.8ac3d472.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2293ade.js",
+    "static/css/2.56388bf5.chunk.css",
+    "static/js/2.a9f402f6.chunk.js",
+    "static/css/main.5ab981b2.chunk.css",
+    "static/js/main.89a58b83.chunk.js"
+  ]
+}
