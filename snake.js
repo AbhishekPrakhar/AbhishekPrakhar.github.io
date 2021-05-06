@@ -5,6 +5,7 @@ function init() {
     cs = 66;
     game_over = false;
     score = 5;
+    speed = 400;
 
     pen = canvas.getContext('2d');
 
@@ -41,6 +42,7 @@ function init() {
             if(headX == food.x && headY == food.y) {
                 food = getRandomFood();
                 score++;
+                speed -= 50;
             }
             else {
                 this.cells.pop();
@@ -138,4 +140,4 @@ function gameloop() {
 
 init();
 
-var f = setInterval(gameloop, 120);
+var f = setInterval(gameloop, speed);
